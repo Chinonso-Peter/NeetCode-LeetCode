@@ -18,7 +18,7 @@ public class MyStack {
 
     public MyStack()
     {
-        stack = new int[2];
+        stack = new int[10];
         front = 0;
         size = 0;
     }
